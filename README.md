@@ -164,7 +164,7 @@ pip install transformers captum
 ```bash
 # Clone the repo
 git clone https://github.com/SkanderHAJMABROUK/explainable-ai-notebooks
-cd YOUR_REPO
+cd explainable-ai-notebooks
 
 # Install dependencies
 pip install jupyter
