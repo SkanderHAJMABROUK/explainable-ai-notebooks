@@ -163,7 +163,7 @@ pip install transformers captum
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/SkanderHAJMABROUK/explainable-ai-notebooks
 cd YOUR_REPO
 
 # Install dependencies
